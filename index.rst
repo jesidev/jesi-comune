@@ -1,7 +1,7 @@
 Manuale redazionale per il sito istituzionale del Comune di Jesi
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-Lorem ipsum.....
+Lorem ipsum....
 
 .. toctree::
   :maxdepth: 3

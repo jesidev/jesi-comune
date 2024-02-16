@@ -10,4 +10,6 @@ Questo manuale è rivolto al redattore del sito del Comune di Jesi e spiega come
   :caption: Manuale redazionale per il sito del Comune di Jesi
 
   manuale-comune/introduzione.rst
+  manuale-museo/albero_navigazione.rst
+  manuale-museo/ambiente_redazionale.rst
   

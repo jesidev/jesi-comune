@@ -1,7 +1,7 @@
 Manuale redazionale per il sito istituzionale del Comune di Jesi
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-Lorem ipsum....
+Questo manuale è rivolto al redattore del sito del Comune di Jesi e spiega come utilizzare l'ambiente redazionale per la gestione dei contenuti del sito.
 
 .. toctree::
   :maxdepth: 3

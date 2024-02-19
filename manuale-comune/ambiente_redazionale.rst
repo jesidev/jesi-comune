@@ -14,3 +14,4 @@ I contenuti sono amministrabili dalla sezione "Contenuto".
   ambiente_redazionale/organizzazione_contenuti.rst
   ambiente_redazionale/barra_azioni.rst
   ambiente_redazionale/visibilita_contenuto.rst
+  ambiente_redazionale/contenuti.rst

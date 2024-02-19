@@ -1,6 +1,8 @@
 Creazione nuova pagina
 ======================
 
+.. _section-nuova-pagina:
+
 In questa sezione viene mostrato come creare una nuova pagina sull'albero di navgazione.
 Per creare una pagina al primo livello premere l'icona + presente sopra l'albero delle pagine.
 

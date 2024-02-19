@@ -23,3 +23,5 @@ Viene così mostrata la lista delle pagine di primo livello, premendo sull'icona
   albero_navigazione/modifica_pagina.rst
   albero_navigazione/cancellazione_pagina.rst
   albero_navigazione/menu_navigazione.rst
+  albero_navigazione/homepage.rst
+  albero_navigazione/pagina_argomento.rst

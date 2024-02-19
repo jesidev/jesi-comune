@@ -38,12 +38,12 @@ Premendo sull'icona + in alto a destra aggiungere sei volte "Aggregatore risorse
    Configurazione aggregatore risorse
 
 Impostare la configurazione come mostrato in figura tranne che per il campo "Contenuto Web Strutture", questo dovrà avere i seguenti valori:
-1. Pagina
-2. Notizia
-3. Evento
-4. Unità organizzativa
-5. Servizio
-6. Documento pubblico
+  1. Pagina
+  2. Notizia
+  3. Evento
+  4. Unità organizzativa
+  5. Servizio
+  6. Documento pubblico
 
 .. figure:: /media/argomento_ar_display.png
    :align: center
@@ -53,9 +53,9 @@ Impostare la configurazione come mostrato in figura tranne che per il campo "Con
    Configurazione aggregatore risorse
 
 Per la tab "Impostazioni visualizzazione" impostare per tutti e sei gli aggregatori risorsa i valori presenti in figura sopra tranne che per il campo "Visualizza modello" per il quale dovranno essere impostati questi valori:
-1. Pagine argomento
-2. Novità argomento
-3. Eventi argomento
-4. Amministrazione argomento
-5. Servizi argomento
-6. Documenti argomento
+  1. Pagine argomento
+  2. Novità argomento
+  3. Eventi argomento
+  4. Amministrazione argomento
+  5. Servizi argomento
+  6. Documenti argomento
